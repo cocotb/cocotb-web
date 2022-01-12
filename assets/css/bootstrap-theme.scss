@@ -1,0 +1,22 @@
+---
+---
+// CSS Entry point
+
+// Follows https://getbootstrap.com/docs/5.0/customize/sass/#maps-and-loops
+// for the Bootstrap includes.
+
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import "bootstrap/functions";
+
+// 2. Include any default variable overrides here
+@import "custom-variables";
+
+// 3. Include remainder of required Bootstrap stylesheets
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+
+// 4. Include any optional Bootstrap components as you like
+@import "bootstrap/bootstrap";
+
+// 5. Add additional custom code here
+@import "custom-styles";

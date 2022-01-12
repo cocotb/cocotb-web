@@ -1,0 +1,45 @@
+# Site settings
+title: cocotb
+email: cocotb@fossi-foundation.org
+description: >-
+  cocotb is a coroutine based cosimulation library for writing VHDL and Verilog
+  testbenches in Python.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.cocotb.org" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: cocotb
+
+# Build settings
+markdown: kramdown
+
+excerpts:
+  # Displays or hides post excerpts from home layout post listing.
+  show: true
+  # Cuts off excerpts with an ellipsis (...) after 32 words (approx. 2 lines).
+  # You can also leave this false, and manually control excerpt length:
+  # https://jekyllrb.com/docs/posts/#post-excerpts
+  auto_truncate: true
+
+# Site configuration
+cocotb:
+  header_pages:
+    - about.md
+
+bootstrap:
+  # Theme date format
+  # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+  date_format: "%b %-d, %Y"
+
+  # If you want to link only specific pages in your header, uncomment
+  # this and add the path to the page *files* in order as they should show up
+  #header_pages:
+  # - about.md
+
+  # generate social links in footer
+  social_links:
+    github:  'https://github.com/cocotb'
+
+
+# Build settings
+plugins:
+#  - jekyll-feed
+  - jekyll-seo-tag

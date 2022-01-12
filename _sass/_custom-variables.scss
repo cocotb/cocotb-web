@@ -1,0 +1,19 @@
+// Overrides for bootstrap variables.
+// List of variables: https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+
+// Our custom colors.
+$color-cocotb-blue: #3776ab;
+$color-cocotb-yellow: #ffcd3c;
+
+// Override Bootstrap color theme.
+$primary: $color-cocotb-blue;
+$secondary: $color-cocotb-yellow;
+
+// Typography
+$font-family-sans-serif: 'Public Sans', system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+//$navbar-brand-font-size:
+
+// Do not use rounded corners anywhere.
+$border-radius: 0;
+$border-radius-sm: 0;
+$border-radius-lg: 0;

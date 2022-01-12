@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+
+#mainNavbar nav {
+  font-size: $font-size-lg;
+}
+
+.btn-navbar-cocotb-download {
+  font-weight: bold;
+  background-color: $primary;
+  color: $white;
+}
+
+.home-leader {
+  h1 {
+    color: $primary;
+    font-size: 50px;
+    font-weight: bold;
+  }
+}
+
+.a-benefits-read-more {
+  font-size: $font-size-lg;
+  font-weight: $font-weight-bold;
+  color: $primary;
+  border-bottom: 4px solid #b9cdde;
+  text-decoration: none;
+}
+
+.a-benefits-read-more:hover {
+  border-bottom-color: $secondary;
+}
