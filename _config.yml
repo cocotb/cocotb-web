@@ -18,7 +18,7 @@ excerpts:
   # Cuts off excerpts with an ellipsis (...) after 32 words (approx. 2 lines).
   # You can also leave this false, and manually control excerpt length:
   # https://jekyllrb.com/docs/posts/#post-excerpts
-  auto_truncate: true
+  auto_truncate: false
 
 # Build settings
 plugins:
