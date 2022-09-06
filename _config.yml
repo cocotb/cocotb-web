@@ -20,6 +20,8 @@ excerpts:
   # https://jekyllrb.com/docs/posts/#post-excerpts
   auto_truncate: false
 
+excerpt_separator: <!--more-->
+
 # Build settings
 plugins:
   - jekyll-feed
