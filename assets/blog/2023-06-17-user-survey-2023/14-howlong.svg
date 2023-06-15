@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg4819"
+   width="494.8418"
+   height="266.64847"
+   viewBox="0 0 494.8418 266.64846"
+   sodipodi:docname="cocotb user survey 2023.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4823">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath19875">
+      <path
+         d="m 62.199,407.5 h 6 v 6 h -6 z"
+         id="path19873" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath19989">
+      <path
+         d="M 62.699,263 H 514 V 413 H 62.699 Z"
+         id="path19987" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4821"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g19779"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 19"
+     transform="matrix(1.3333333,0,0,1.3333333,-82.931585,-284.68486)">
+    <g
+       id="g19869">
+      <g
+         id="g19871"
+         clip-path="url(#clipPath19875)">
+        <path
+           d="m 62.199,203 h 471.602 v 204.5 c 0,3.312 -2.688,6 -6,6 H 68.199 c -3.312,0 -6,-2.688 -6,-6 z m 471.102,0 H 62.699 v 204.5 c 0,3.035 2.465,5.5 5.5,5.5 h 459.602 c 3.035,0 5.5,-2.465 5.5,-5.5 z"
+           style="fill:#dadce0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path19877" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-size:12px;font-family:CairoFont-1;-inkscape-font-specification:CairoFont-1-0;writing-mode:lr-tb;fill:#18191c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text19965"
+       x="62.700001"
+       y="222.25"><tspan
+         x="62.700001 69.323997 76.344002 80.556 83.676003 90.431999 97.428001 106.584 109.704 112.752 119.748 126.51601 133.40401 136.524 143.28 149.856 155.73601 162.24001 165.36 171.09601 178.092 184.84801 187.968 194.856 201.36 207.864 214.62 217.73999 224.508 230.832 233.892 240.64799 247.536 250.65599 257.08801 264.08401 270.51599 277.51199 281.58002 288.46802"
+         y="222.25"
+         sodipodi:role="line"
+         id="tspan19963">For how long have you been using cocotb?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-size:9px;font-family:CairoFont-1;-inkscape-font-specification:CairoFont-1-0;writing-mode:lr-tb;fill:#18191c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text19969"
+       x="62.700001"
+       y="242"><tspan
+         x="62.700001 67.973999 73.238998 75.687004 78.873001 83.849998 88.709999 93.984001 99.339005 104.523 109.383 114.36"
+         y="242"
+         sodipodi:role="line"
+         id="tspan19967">46 responses</tspan></text>
+    <g
+       id="g19985"
+       clip-path="url(#clipPath19989)">
+      <text
+         xml:space="preserve"
+         transform="translate(363.25,278.14999)"
+         style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text19995"><tspan
+           x="0 5.0040002 7.4970002 14.994 19.997999 25.002001 27.495001 32.499001 36.999001 39.492001 44.469002 47.466 49.959 51.957001 56.960999 61.460999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan19993">3 months or less</tspan></text>
+      <path
+         d="m 359.5,275 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+         style="fill:#3366cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path19997" />
+      <text
+         xml:space="preserve"
+         transform="translate(363.25,292.39999)"
+         style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text20001"><tspan
+           x="0 5.0040002 7.4970002 14.994 19.997999 25.002001 27.495001 32.499001 36.999001 39.492001 42.488998 44.981998 49.959 52.452 56.952 61.956001 66.959999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan19999">3 months - 1 year</tspan></text>
+      <path
+         d="m 359.5,289.25 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+         style="fill:#dc3912;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path20003" />
+      <text
+         xml:space="preserve"
+         transform="translate(363.25,306.64999)"
+         style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text20007"><tspan
+           x="0 5.0040002 7.4970002 10.494 12.987 17.990999 20.483999 24.983999 29.988001 34.992001 37.988998"
+           y="0"
+           sodipodi:role="line"
+           id="tspan20005">2 - 3 years</tspan></text>
+      <path
+         d="m 359.5,303.5 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+         style="fill:#ff9900;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path20009" />
+      <text
+         xml:space="preserve"
+         transform="translate(363.25,320.89999)"
+         style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text20013"><tspan
+           x="0 5.0040002 7.4970002 10.494 12.987 17.990999 20.483999 24.983999 29.988001 34.992001 37.988998"
+           y="0"
+           sodipodi:role="line"
+           id="tspan20011">3 - 5 years</tspan></text>
+      <path
+         d="m 359.5,317.75 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+         style="fill:#109618;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path20015" />
+      <text
+         xml:space="preserve"
+         transform="translate(363.25,335.14999)"
+         style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text20019"><tspan
+           x="0 5.0040002 10.008 15.012 20.016001 24.993"
+           y="0"
+           sodipodi:role="line"
+           id="tspan20017">Longer</tspan></text>
+      <path
+         d="m 359.5,332 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+         style="fill:#990099;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path20021" />
+      <g
+         id="g20023">
+        <path
+           d="m 211,338 h 67.5 c 0,18.703 -7.758,36.566 -21.426,49.332 L 211,338"
+           style="fill:#3366cc;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path20025" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="translate(246.43869,360.45245)"
+         style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text20029"><tspan
+           x="0 5.0040002 10.008"
+           y="0"
+           sodipodi:role="line"
+           id="tspan20027">13%</tspan></text>
+      <g
+         id="g20031">
+        <path
+           d="m 211,338 52.359,-42.598 C 273.152,307.438 278.5,322.484 278.5,338 H 211"
+           style="fill:#990099;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path20033" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="translate(240.63214,326.08737)"
+         style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text20037"><tspan
+           x="0 5.0040002 10.008 12.501 17.504999"
+           y="0"
+           sodipodi:role="line"
+           id="tspan20035">10.9%</tspan></text>
+      <g
+         id="g20039">
+        <path
+           d="m 211,338 4.605,-67.344 c 18.661,1.278 35.954,10.239 47.754,24.746 L 211,338"
+           style="fill:#109618;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path20041" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="translate(225.03249,296.69931)"
+         style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text20045"><tspan
+           x="0 5.0040002 10.008"
+           y="0"
+           sodipodi:role="line"
+           id="tspan20043">13%</tspan></text>
+      <g
+         id="g20047">
+        <path
+           d="m 211,338 -46.074,-49.332 c 13.672,-12.766 32.023,-19.285 50.679,-18.012 L 211,338"
+           style="fill:#ff9900;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path20049" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="translate(184.97847,293.25601)"
+         style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text20053"><tspan
+           x="0 5.0040002 10.008"
+           y="0"
+           sodipodi:role="line"
+           id="tspan20051">13%</tspan></text>
+      <g
+         id="g20055">
+        <path
+           d="m 211,338 46.074,49.332 c -27.25,25.438 -69.953,23.973 -95.394,-3.27 -25.442,-27.242 -23.989,-69.945 3.246,-95.394 L 211,338"
+           style="fill:#dc3912;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path20057" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="translate(166.34886,374.44583)"
+         style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text20061"><tspan
+           x="0 5.0040002 10.008"
+           y="0"
+           sodipodi:role="line"
+           id="tspan20059">50%</tspan></text>
+    </g>
+  </g>
+</svg>
