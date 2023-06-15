@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg4819"
+   width="601.73438"
+   height="265.98175"
+   viewBox="0 0 601.73438 265.98174"
+   sodipodi:docname="cocotb user survey 2023.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4823">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20615">
+      <path
+         d="M 62.699,96.5 H 514 v 150 H 62.699 Z"
+         id="path20613" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4821"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g20489"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 20"
+     transform="matrix(1.3333333,0,0,1.3333333,-83.598566,-62.684893)">
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-size:12px;font-family:CairoFont-1;-inkscape-font-specification:CairoFont-1-0;writing-mode:lr-tb;fill:#18191c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text20577"
+       x="62.700001"
+       y="55.75"><tspan
+         x="62.700001 71.388 77.964005 83.844002 90.348 93.468002 99.204002 106.2 112.956 116.076 122.508 128.388 134.892 139.104 142.224 148.65601 155.65201 162.42 166.476 170.688 173.748 180.636 187.392 191.45999 197.964 204.864 207.98399 214.416 221.412 228.312 234.81599 239.916 246.912 253.78799 260.29199 267.06 273.564 280.46402 283.58401 290.24402 293.36401 300.25201 307.008 310.06799 313.12799 316.23599 320.34003 326.84402 333.80402 340.57202 347.07602 353.40002 357.46802 360.58801 364.89603 371.892 376.104 379.224 385.65601 392.65201 399.08401 406.08002 410.14801 417.03601"
+         y="55.75"
+         sodipodi:role="line"
+         id="tspan20575">Have you ever contributed code/opened a pull request for cocotb?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-size:9px;font-family:CairoFont-1;-inkscape-font-specification:CairoFont-1-0;writing-mode:lr-tb;fill:#18191c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text20581"
+       x="62.700001"
+       y="75.5"><tspan
+         x="62.700001 67.973999 73.238998 75.687004 78.873001 83.849998 88.709999 93.984001 99.339005 104.523 109.383 114.36"
+         y="75.5"
+         sodipodi:role="line"
+         id="tspan20579">48 responses</tspan></text>
+    <g
+       id="g20609">
+      <g
+         id="g20611"
+         clip-path="url(#clipPath20615)">
+        <path
+           d="M 62.5,96.5 H 514 v 150 H 62.5 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20617" />
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,111.65)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20621"><tspan
+             x="0 4.5 9.5039997"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20619">yes</tspan></text>
+        <path
+           d="m 359.5,108.5 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#3366cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20623" />
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,125.9)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20627"><tspan
+             x="0 5.0040002"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20625">no</tspan></text>
+        <path
+           d="m 359.5,122.75 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#dc3912;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20629" />
+        <g
+           id="g20631">
+          <path
+             d="M 211,171.5 V 239 c -37.277,0 -67.5,-30.223 -67.5,-67.5 0,-37.277 30.223,-67.5 67.5,-67.5 37.277,0 67.5,30.223 67.5,67.5 H 211"
+             style="fill:#dc3912;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path20633" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(167.4455,140.09549)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20637"><tspan
+             x="0 5.0040002 10.008"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20635">75%</tspan></text>
+        <g
+           id="g20639">
+          <path
+             d="m 211,171.5 h 67.5 c 0,37.277 -30.223,67.5 -67.5,67.5 v -67.5"
+             style="fill:#3366cc;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path20641" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(236.5545,209.2045)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20645"><tspan
+             x="0 5.0040002 10.008"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20643">25%</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

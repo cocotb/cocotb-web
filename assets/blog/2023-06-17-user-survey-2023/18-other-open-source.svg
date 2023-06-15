@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg4819"
+   width="567.61719"
+   height="256.48334"
+   viewBox="0 0 567.61719 256.48333"
+   sodipodi:docname="cocotb user survey 2023.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4823">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20909">
+      <path
+         d="M 62.699,584.5 H 514 v 150 H 62.699 Z"
+         id="path20907" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4821"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g20489"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 20"
+     transform="matrix(1.3333333,0,0,1.3333333,-83.576106,-713.35153)">
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-size:12px;font-family:CairoFont-1;-inkscape-font-specification:CairoFont-1-0;writing-mode:lr-tb;fill:#18191c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text20597"
+       x="62.700001"
+       y="543.75"><tspan
+         x="62.700001 70.667999 74.772003 81.264 84.384003 90.120003 97.116005 103.884 106.992 110.052 116.82 122.688 129.68401 132.744 138.62401 145.12801 152.028 155.14799 158.196 164.964 168.084 175.08 179.14799 185.90401 192.40799 196.608 199.728 206.724 213.612 220.116 226.884 230.004 236.328 243.32399 250.08 254.18399 260.616 267.12 270.228 277.116 281.20801 288.20401 291.20401 297.70801 304.14001 308.20801 314.53201"
+         y="543.75"
+         sodipodi:role="line"
+         id="tspan20595">Are you involved in other open source projects?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-size:9px;font-family:CairoFont-1;-inkscape-font-specification:CairoFont-1-0;writing-mode:lr-tb;fill:#18191c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text20601"
+       x="62.700001"
+       y="563.5"><tspan
+         x="62.700001 67.973999 73.238998 75.687004 78.873001 83.849998 88.709999 93.984001 99.339005 104.523 109.383 114.36"
+         y="563.5"
+         sodipodi:role="line"
+         id="tspan20599">48 responses</tspan></text>
+    <g
+       id="g20903">
+      <g
+         id="g20905"
+         clip-path="url(#clipPath20909)">
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,599.65002)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20915"><tspan
+             x="0 5.0040002 10.008 12.501 14.994 17.990999 22.995001 27.999001 29.997 31.995001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20913">not really</tspan></text>
+        <path
+           d="m 359.5,596.5 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#3366cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20917" />
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,613.90002)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20925"><tspan
+             x="0 5.0040002 7.4970002 12.501 14.499 16.992001 19.485001 21.978001 24.471001 26.964001 29.457001 34.460999 36.459 38.457001 43.433998 49.931999 52.424999 57.429001 62.432999 68.931 73.431 75.924004 80.928001 83.925003 86.417999 88.416 92.916 94.914001 99.917999 104.418"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20919">a bit: I follow news articles,</tspan><tspan
+             x="0 5.0040002 10.008 15.012 20.016001 24.993 29.997 34.497002 39.500999 46.998001 52.001999 57.006001 59.499001 63.999001 66.491997 71.469002 74.466003 76.959 84.456001 89.459999 91.458 93.456001 95.454002 100.458 105.462 107.955 109.953 111.951 116.451 118.944 123.444"
+             y="11.999997"
+             sodipodi:role="line"
+             id="tspan20921">announcements or mailing lists,</tspan><tspan
+             x="0 5.0040002 9.5039997 14.004 19.007999 23.507999 25.506001 30.51 35.514 40.491001 42.488998 44.487 48.987 51.48 54.477001 59.480999 64.485001 69.488998 72.486 74.978996 77.472 82.475998 84.969002 89.973 94.949997 99.954002 102.447 104.94 109.944 112.437 116.937"
+             y="23.999994"
+             sodipodi:role="line"
+             id="tspan20923">occasionally report a bug, etc.</tspan></text>
+        <path
+           d="m 359.5,610.75 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#dc3912;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20927" />
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,652.15002)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20935"><tspan
+             x="0 5.0040002 7.4970002 9.4949999 14.499 16.992001 19.485001 21.978001 24.471001 26.964001 29.961 34.965 39.969002 42.462002 44.459999 49.437 54.441002 56.438999 60.938999 63.431999 66.429001 71.432999 76.436996 81.441002 84.438004 86.931 89.424004 94.428001 99.404999 104.409 108.909"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20929">a lot: I routinely report bugs,</tspan><tspan
+             x="0 4.5 9.5039997 14.508 17.000999 19.997999 21.996 27 32.004002 34.497002 39.473999 41.966999 46.466999 51.471001 56.474998 61.479 63.972 66.464996 71.469002 74.466003 76.959 81.935997 89.432999 91.926003 93.924004 98.928001 103.428 108.432 110.43 114.93 119.934"
+             y="11.999997"
+             sodipodi:role="line"
+             id="tspan20931">contribute code, or am involved</tspan><tspan
+             x="0 5.0040002 9.5039997 11.997 17.000999 19.493999 26.990999 31.995001 33.993 38.997002 41.490002 46.466999 48.465 53.469002 58.473"
+             y="23.999994"
+             sodipodi:role="line"
+             id="tspan20933">as a maintainer</tspan></text>
+        <path
+           d="m 359.5,649 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#ff9900;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20937" />
+        <g
+           id="g20947">
+          <path
+             d="m 211,659.5 66.922,-8.809 c 0.387,2.918 0.578,5.864 0.578,8.809 H 211"
+             style="fill:#109618;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path20949" />
+        </g>
+        <g
+           id="g20951">
+          <path
+             d="M 211,659.5 V 592 c 33.875,0 62.5,25.105 66.922,58.691 L 211,659.5"
+             style="fill:#ff9900;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path20953" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(228.8004,627.81396)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20957"><tspan
+             x="0 5.0040002 10.008 12.501 17.504999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20955">22.9%</tspan></text>
+        <g
+           id="g20959">
+          <path
+             d="m 211,659.5 -17.469,65.199 C 160.809,715.934 139.656,684.273 144.078,650.691 148.5,617.105 177.125,592 211,592 v 67.5"
+             style="fill:#dc3912;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path20961" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(153.43193,656.74957)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20965"><tspan
+             x="0 5.0040002 10.008 12.501 17.504999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20963">45.8%</tspan></text>
+        <g
+           id="g20967">
+          <path
+             d="m 211,659.5 h 67.5 c 0,20.984 -9.762,40.777 -26.41,53.551 -16.649,12.777 -38.289,17.082 -58.559,11.648 L 211,659.5"
+             style="fill:#3366cc;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path20969" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(226.67998,699.70068)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20973"><tspan
+             x="0 5.0040002 10.008 12.501 17.504999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20971">29.2%</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

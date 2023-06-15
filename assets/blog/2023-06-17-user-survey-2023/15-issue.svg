@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg4819"
+   width="601.73438"
+   height="265.98181"
+   viewBox="0 0 601.73438 265.9818"
+   sodipodi:docname="cocotb user survey 2023.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4823">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20075">
+      <path
+         d="M 62.699,474 H 514 V 624 H 62.699 Z"
+         id="path20073" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4821"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g19779"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 19"
+     transform="matrix(1.3333333,0,0,1.3333333,-83.598577,-566.01821)">
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-size:12px;font-family:CairoFont-1;-inkscape-font-specification:CairoFont-1-0;writing-mode:lr-tb;fill:#18191c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text19973"
+       x="62.700001"
+       y="433.25"><tspan
+         x="62.700001 71.388 77.964005 83.844002 90.348 93.468002 99.204002 106.2 112.956 116.076 122.508 128.388 134.892 139.104 142.224 146.31599 152.82001 159.70801 166.70399 171.192 175.25999 181.76401 188.664 191.784 198.45599 205.21199 208.332 211.392 217.716 224.052 230.808 237.312 240.43199 244.34399 251.364 254.48399 260.91602 267.91202 274.34399 281.34 285.40799 292.29599"
+         y="433.25"
+         sodipodi:role="line"
+         id="tspan19971">Have you ever reported an issue to cocotb?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-size:9px;font-family:CairoFont-1;-inkscape-font-specification:CairoFont-1-0;writing-mode:lr-tb;fill:#18191c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text19977"
+       x="62.700001"
+       y="453"><tspan
+         x="62.700001 67.973999 73.238998 75.687004 78.873001 83.849998 88.709999 93.984001 99.339005 104.523 109.383 114.36"
+         y="453"
+         sodipodi:role="line"
+         id="tspan19975">48 responses</tspan></text>
+    <g
+       id="g20069">
+      <g
+         id="g20071"
+         clip-path="url(#clipPath20075)">
+        <path
+           d="M 62.5,474 H 514 V 624 H 62.5 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20077" />
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,489.14999)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20081"><tspan
+             x="0 4.5 9.5039997"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20079">yes</tspan></text>
+        <path
+           d="m 359.5,486 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#3366cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20083" />
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,503.39999)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20087"><tspan
+             x="0 5.0040002"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20085">no</tspan></text>
+        <path
+           d="m 359.5,500.25 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#dc3912;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path20089" />
+        <g
+           id="g20091">
+          <path
+             d="m 211,549 -65.199,17.469 c -6.789,-25.336 1.715,-52.317 21.812,-69.176 20.094,-16.863 48.137,-20.555 71.914,-9.469 C 263.301,498.91 278.5,522.766 278.5,549 H 211"
+             style="fill:#dc3912;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path20093" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(191.57762,501.46829)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20097"><tspan
+             x="0 5.0040002 10.008 12.501 17.504999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20095">54.2%</tspan></text>
+        <g
+           id="g20099">
+          <path
+             d="m 211,549 h 67.5 c 0,33.875 -25.105,62.5 -58.691,66.922 -33.582,4.422 -65.243,-16.731 -74.008,-49.453 L 211,549"
+             style="fill:#3366cc;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path20101" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(204.92236,602.83173)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20105"><tspan
+             x="0 5.0040002 10.008 12.501 17.504999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan20103">45.8%</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

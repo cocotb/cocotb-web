@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg4819"
+   width="601.73468"
+   height="265.98175"
+   viewBox="0 0 601.73468 265.98174"
+   sodipodi:docname="cocotb user survey 2023.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4823">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6107">
+      <path
+         d="M 62.699,578.5 H 514 v 150 H 62.699 Z"
+         id="path6105" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4821"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g5555"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 2"
+     transform="matrix(1.3333333,0,0,1.3333333,-83.598646,-705.35153)">
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-size:12px;font-family:CairoFont-1;-inkscape-font-specification:CairoFont-1-0;writing-mode:lr-tb;fill:#18191c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text5639"
+       x="62.700001"
+       y="537.75"><tspan
+         x="62.700001 71.388 78.384003 87.540001 90.660004 101.316 107.97601 114.744 120.576 123.68401 130.57201 137.076 144.07201 150.96001 154.02 160.524 163.644 172.8 179.79601 183.996 190.224 193.34399 202.5 205.56 209.62799 216.37199 219.492 225.228 232.224 238.992 242.09999 249.09599 255.864 258.98401 263.052 269.80801 272.85602 279.19202 282.31201 289.20001 293.25601 300.276 303.276 309.78 316.21201 320.28 323.40002 330.06 336.828 343.72803 346.84802 353.604 359.94 366.444 369.552 375.98401 382.98001 389.42401 396.42001 400.47601 407.36401"
+         y="537.75"
+         sodipodi:role="line"
+         id="tspan5637">How many people work with you on this project and use cocotb?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-variant:normal;font-size:9px;font-family:CairoFont-1;-inkscape-font-specification:CairoFont-1-0;writing-mode:lr-tb;fill:#18191c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text5643"
+       x="62.700001"
+       y="557.5"><tspan
+         x="62.700001 67.973999 73.238998 75.687004 78.873001 83.849998 88.709999 93.984001 99.339005 104.523 109.383 114.36"
+         y="557.5"
+         sodipodi:role="line"
+         id="tspan5641">48 responses</tspan></text>
+    <g
+       id="g6101">
+      <g
+         id="g6103"
+         clip-path="url(#clipPath6107)">
+        <path
+           d="M 62.5,578.5 H 514 v 150 H 62.5 Z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path6109" />
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,593.65002)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6113"><tspan
+             x="0 5.0040002 10.008 12.006 16.506001 18.999001 26.496"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6111">only me</tspan></text>
+        <path
+           d="m 359.5,590.5 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#3366cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path6115" />
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,607.90002)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6119"><tspan
+             x="0 5.0040002 7.4970002 11.997 19.493999 24.497999 26.496 28.493999 30.987 33.48 38.484001 43.487999 50.985001 53.478001 56.474998 61.479 66.456001 68.948997 71.442001 76.445999 78.939003 83.943001 88.946999 91.440002 96.444 101.421 106.425 111.429 113.427 118.431"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6117">a small team (up to 10 people)</tspan></text>
+        <path
+           d="m 359.5,604.75 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#dc3912;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path6121" />
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,622.15002)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6125"><tspan
+             x="0 5.0040002 7.4970002 9.4949999 14.499 17.496 22.5 27.504 30.500999 32.993999 35.487 40.491001 45.467999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6123">a larger team</tspan></text>
+        <path
+           d="m 359.5,619 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#ff9900;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path6127" />
+        <text
+           xml:space="preserve"
+           transform="translate(363.25,636.40002)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6131"><tspan
+             x="0 7.4970002 12.501 14.499 16.992001 18.99 23.993999 25.992001 30.996 33.488998 35.981998 40.986 45.963001 53.459999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6129">multiple teams</tspan></text>
+        <path
+           d="m 359.5,633.25 c 0,2.484 -2.016,4.5 -4.5,4.5 -2.484,0 -4.5,-2.016 -4.5,-4.5 0,-2.484 2.016,-4.5 4.5,-4.5 2.484,0 4.5,2.016 4.5,4.5"
+           style="fill:#109618;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path6133" />
+        <g
+           id="g6135">
+          <path
+             d="m 211,653.5 53.551,-41.09 c 9.047,11.785 13.949,26.231 13.949,41.09 H 211"
+             style="fill:#109618;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path6137" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(240.84285,642.19165)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6141"><tspan
+             x="0 5.0040002 10.008 12.501 17.504999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6139">10.4%</tspan></text>
+        <g
+           id="g6143">
+          <path
+             d="m 211,653.5 33.75,-58.457 c 7.676,4.434 14.406,10.332 19.801,17.367 L 211,653.5"
+             style="fill:#ff9900;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path6145" />
+        </g>
+        <g
+           id="g6147">
+          <path
+             d="m 211,653.5 -47.73,47.73 c -23.954,-23.953 -26.442,-61.949 -5.821,-88.82 20.621,-26.875 57.965,-34.305 87.301,-17.367 L 211,653.5"
+             style="fill:#dc3912;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path6149" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(162.15642,628.95441)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6153"><tspan
+             x="0 5.0040002 10.008 12.501 17.504999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6151">45.8%</tspan></text>
+        <g
+           id="g6155">
+          <path
+             d="m 211,653.5 h 67.5 c 0,27.301 -16.445,51.914 -41.668,62.363 -25.223,10.446 -54.258,4.672 -73.562,-14.633 L 211,653.5"
+             style="fill:#3366cc;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path6157" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(216.84546,701.54346)"
+           style="font-variant:normal;font-size:9px;font-family:CairoFont-2;-inkscape-font-specification:CairoFont-2-0;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text6161"><tspan
+             x="0 5.0040002 10.008 12.501 17.504999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan6159">37.5%</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
