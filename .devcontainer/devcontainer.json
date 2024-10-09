@@ -1,0 +1,6 @@
+{
+  // Match the Ubuntu version used by Netlify builds.
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-24.04",
+  "postStartCommand": "sudo apt-get update && sudo apt-get -y install ruby bundler nodejs npm && bundle config set --local path 'vendor/bundle' && bundler install && npm install",
+  "forwardPorts": [4000]
+}
