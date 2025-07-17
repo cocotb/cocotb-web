@@ -6,7 +6,7 @@ author: Philipp Wagner
 
 cocotb 2.0 is getting closer!
 We’re excited to announce the first beta release of cocotb 2.0 (2.0.0b1) is now [available on PyPI](https://pypi.org/project/cocotb/2.0.0b1/).
-Install it with `pip install cocotb == 2.0.0b1` to start testing today and let us know how it goes!
+Install it with `pip install cocotb==2.0.0b1` to start testing today and let us know how it goes!
 
 <!--more-->
 
@@ -31,7 +31,7 @@ cocotb 2.0 folds all of that insight into a release that gently reshapes some co
 ## What about existing users?
 
 We’re honored that so many of you have chosen cocotb as your go-to verification tool.
-You've written thousands of lines of testbenches and invested heavily in them
+You've written thousands of lines of testbenches and invested heavily in them.
 cocotb 2.0 builds on that investment.
 
 Yes, some APIs have changed, and your testbenches may need adjustments.
@@ -44,7 +44,7 @@ increased productivity and, in some cases, faster execution.
 
 ## Act now: test cocotb 2.0!
 
-cocotb 2.0 is still in beta, so now’s the time to test.
+cocotb 2.0 is still in beta, so now is the time to test.
 Upgrade, run your testbenches, follow the [migration guide](https://docs.cocotb.org/en/development/upgrade-2.0.html), and tell us what worked well, what didn’t, and any performance shifts you noticed.
 The APIs aren’t frozen yet, which means there’s still room for change before the final release.
 
