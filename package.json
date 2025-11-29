@@ -13,7 +13,12 @@
     "assets:copy:css": "mkdir -p assets/css && cp -a node_modules/bootstrap-icons/font/bootstrap-icons.css assets/css/",
     "assets:install": "npm run assets:copy:js && npm run assets:copy:scss && npm run assets:copy:fonts && npm run assets:copy:css",
     "build": "npm run assets:install && bundler exec jekyll build",
-    "serve": "npm run assets:install && bundler exec jekyll serve --host 0.0.0.0 --port 4000 --livereload --livereload-port 35729 --incremental"
+    "serve": "npm run assets:install && bundler exec jekyll serve --host 0.0.0.0 --port 4000 --livereload --livereload-port 35729 --incremental",
+    "test": "npm run test:security && npm run test:build",
+    "test:security": "npm audit --audit-level=moderate",
+    "test:build": "npm run build && echo 'Build successful!'",
+    "test:links": "node -e \"console.log('Link checking - install linkchecker for full check')\"",
+    "lint": "echo 'Linting not yet configured - install markdownlint for markdown files'"
   },
   "dependencies": {
     "bootstrap": "^5.3.7",
