@@ -25,8 +25,25 @@ npm run serve
 ```
 
 The site is constantly updated if you make changes to any of the source files.
-(Updates may take a couple seconds; watch the output of the `npm rum serve`
+(Updates may take a couple seconds; watch the output of the `npm run serve`
 command to see when it's done.)
+
+## Testing
+
+Run the test suite to verify the build:
+
+```bash
+npm test
+```
+
+This will run:
+- Security audit (`npm audit`)
+- Build verification
+- Additional quality checks
+
+Individual test commands:
+- `npm run test:security` - Check for security vulnerabilities
+- `npm run test:build` - Verify the Jekyll build succeeds
 
 ## Dependency update
 
